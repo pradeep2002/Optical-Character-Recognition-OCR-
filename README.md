@@ -2,8 +2,8 @@
 
 # TASK 1
 
-Implementing a real time traffic sign classifier which identifies the traffic sign
-and gives an alert.
+Character detector which extracts printed or handwritten text from an image.
+THE SPARKS FOUNDATION INTERNSHIP
 #GRIPAUGUST21
 
 # Youtube Link
